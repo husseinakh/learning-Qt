@@ -3,3 +3,4 @@ learn how to deal with StreamReader classes
 learn how to write to a csv file
 then learn git
 supervised by zoltan and samar
+this task is time unlimited, an dits purpose is to teach and guid the me through all that stuff
