@@ -2,3 +2,4 @@ learn how to read a xml file
 learn how to deal with StreamReader classes
 learn how to write to a csv file
 then learn git
+supervised by zoltan and samar
